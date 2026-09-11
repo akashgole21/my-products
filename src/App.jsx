@@ -22,7 +22,7 @@ function App() {
       <ToastContainer />
       
 
-      <BrowserRouter>
+      <BrowserRouter basename="/my-products">
         <CartProvider>
           <Header />
           <Routes>
