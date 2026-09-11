@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "image":"https://p1-ofp.static.pub//fes/cms/2025/08/11/urzxopamnfopyuk27rm04xdcv4jkda622518.png?width=584&height=584",
+    "price": 55000,
+    "stockQty": 10
+  },
+  {
+    "id": 2,
+    "name": "Mobile Phone",
+    "image":"https://www.imagineonline.store/cdn/shop/files/IMG-18071447_m_jpeg_1.jpg?v=1757448672&width=823",
+    "price": 25000,
+    "stockQty": 15
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpo4G122V_XYQYbMJgZfVIq0BqB2Us2MijybYbe81A-bLUEo_uVFRJneSt74kvaHWWgbH9Y70EyflR1Jpdm4Qc0bHhbKlg8GR_7ZD7oWgu1FXQRlPvy1QGn80",
+    "price": 2000,
+    "stockQty": 25
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "image":"https://m.media-amazon.com/images/I/41IfkQrRSQL._SY300_SX300_QL70_FMwebp_.jpg",
+    "price": 5000,
+    "stockQty": 8
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "image":"https://m.media-amazon.com/images/I/41Z41c8nFCL._SY300_SX300_QL70_FMwebp_.jpg",
+    "price": 1200,
+    "stockQty": 20
+  }
+]
